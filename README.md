@@ -16,7 +16,7 @@ github link: https://github.com/ghost-60/graphql_server
 ```
 $ npm i 
 ```
-2. deploy the application
+2. Start The application
 ```
 $ npm start
 ```
