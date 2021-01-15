@@ -34,6 +34,18 @@ $ npm start
 ```
 
 ## Features
+### Material Ui Design
+Built using modern material-ui library which provides fast and reusable components. <br/>
+UI is responsive on both mobile/desktop and scale relative to screen size
+### Graph QL backend usong Apollo Express Client
+Mock data is retrieved using apollo client in react. (Link for graphQL api provided above)
+### React Context for state management
+States are available to any component without passing props achieved through using react context. <br/>
+Makes development easier, the code more elegant and easier to read.
+
+### Unit and Integration Testing on components using Jest
+Implemented integration and unit testing for robustness and future work.
+### Prop types specified in Typescript components
 
 ### Add nutrition 
 ![Add nutrition](https://github.com/ghost-60/nutritionapp/blob/main/add%20page.png "add nutrition")
