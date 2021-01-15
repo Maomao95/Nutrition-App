@@ -32,7 +32,6 @@ $ npm i
 ```
 $ npm start
 ```
-then the web application will run on http://localhost:5000/
 
 ## Features
 
