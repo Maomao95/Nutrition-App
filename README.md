@@ -18,9 +18,9 @@ $ npm i
 ```
 2. Start The application
 ```
-$ npm start
+$ node server.js
 ```
-then the web application will be run on http://localhost:5000/
+then the web application will run on http://localhost:5000/
 
 ## Features
 
