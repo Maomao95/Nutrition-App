@@ -22,6 +22,18 @@ $ node server.js
 ```
 then the web application will run on http://localhost:5000/
 
+## How to run only client
+1. install the dependencies for server
+```
+$ cd client
+$ npm i 
+```
+2. Start The application in the same folder
+```
+$ npm start
+```
+then the web application will run on http://localhost:5000/
+
 ## Features
 
 ### Add nutrition 
