@@ -16,7 +16,13 @@ github link: https://github.com/ghost-60/graphql_server
 ```
 $ npm i 
 ```
-2. Start The application
+2. install the dependencies for client
+```
+$ cd client
+$ npm i 
+$ npm run build
+```
+3. Start The application in root folder
 ```
 $ node server.js
 ```
